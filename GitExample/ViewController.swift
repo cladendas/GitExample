@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("Всем привет)")
+        if 2 > 0 {
+            print("Всем привет)")
+        }
     }
 }
